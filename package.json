@@ -1,0 +1,26 @@
+{
+  "name": "react-native-generic-password-activity",
+  "version": "1.0.0",
+  "description": "Access share menu for password manager share extensions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonhafer/react-native-generic-password-activity.git"
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "@expo/vector-icons": "*"
+  },
+  "author": "Dillon Hafer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillonhafer/react-native-generic-password-activity/issues"
+  },
+  "homepage": "https://github.com/dillonhafer/react-native-generic-password-activity#readme"
+}
